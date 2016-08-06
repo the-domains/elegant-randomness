@@ -1,0 +1,14 @@
+layout_spectrum: 0.3244140651077032
+typography_spectrum: 0.22025571181438863
+color:
+  brandStrength: 0.11312276404350996
+  lightness: 0.4952628540340811
+  saturation: 0.47005128115415573
+  rhythmicContrast: 0.08361493237316608
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: elegant randomness
